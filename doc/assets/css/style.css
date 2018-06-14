@@ -1,0 +1,65 @@
+body {
+    background-color:#f48c6c;
+}
+
+header {
+    text-align: right;
+    margin-right: 2rem;
+    color: #fafafa;
+}
+
+.imgUno {
+    background-image: url(../img/uno.jpg);
+    padding: 20em;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 1rem;
+}
+
+.verde {
+    background-color:#ace38b;
+    padding: 5%;
+    margin-bottom: 1rem;
+}
+.texto {
+    background-color: #f48c6c;
+    color: #fafafa;
+    text-align: center;
+}
+.textUno {
+    text-align: justify;
+}
+
+.imgDos {
+    background-image: url(../img/dos.jpg);
+    padding: 20em;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 1rem;
+}
+
+.imgTres {
+    background-image: url(../img/tres.jpg);
+    padding: 20em;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 1rem;
+}
+
+.cuadro {
+    text-align: center;
+    margin-bottom: 1rem;
+    background-color: #ace38b;
+    padding: 2rem;
+    color: #fafafa;
+}
+
+#fin {
+    text-align: right;
+    margin-right: 2rem;
+    color: #fafafa;
+}
+
